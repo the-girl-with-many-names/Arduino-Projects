@@ -1,3 +1,5 @@
+// Made using Arduino Uno R3
+
 int pinColumns[] = {A4, 11, 12, 13, A5, 8, 9, 10, 3, 6, 5, 7, 2, 1, 0, 4};
 int pinLayers[] = {A0, A1, A2, A3};
 int activatedColumn = 0;
